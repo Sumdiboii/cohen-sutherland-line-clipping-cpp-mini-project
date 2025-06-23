@@ -1,6 +1,6 @@
 <!-- TITLE with Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB44FF&center=true&vCenter=true&width=600&lines=Ball+Bounce+Simulation+in+C%2B%2B;Turbo+C%2B%2B+Graphics+%2B+Clipping+Algorithm" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB44FF&center=true&vCenter=true&width=1000&lines=Ball+Bounce+Simulation+in+C%2B%2B;Turbo+C%2B%2B+Graphics+%2B+Clipping+Algorithm" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <br>
 
-<h1 align="center">🔁 Infinite Ball Bounce Simulation – C++ Turbo Graphics 🔁</h1>
+<h1 align="center">🏓 Infinite Ball Bounce Simulation 🏓</h1>
 <h3 align="center">A never-ending, auto-animated bouncing ball with dynamic obstacle collision and line clipping logic.</h3>
 
 <br>
