@@ -37,6 +37,7 @@ What makes this simulation unique is that the **bar is clipped** using the **Coh
 It’s a clean, continuous visual simulation — ideal for understanding clipping, bouncing logic, and retro animation techniques.
 
 <br>
+<br>
 
 <p align="center">
   
